@@ -13,4 +13,4 @@ This project predicts solar power output using machine learning models.
 ## Usage
 Run `main.py` to train the model and visualize the prediction distribution.
 
-https://youtu.be/KXrGTWQxbOA?si=PWAq9VRAWpyrth7E 
+youtube link:https://youtu.be/KXrGTWQxbOA?si=PWAq9VRAWpyrth7E 
